@@ -2,5 +2,4 @@
 
 THIS PROGRAM REQUIRES MARS (MIPS Assembler and Runtime Simulator) to run the code. 
 
-This program takes program arguments of HEX numbers and then returns the integer values of those HEX number
-and also the largest number that you input in. 
+The program will accept up to 8 program arguments in HEX format. The numbers will range from 0x000 up to 0xFFF. These numbers will be converted to decimals. The maximum number will be printed on screen in decimal format.
